@@ -1,0 +1,21 @@
+{
+    "version": "1.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/martwebber/test-release-pipeline/releases/download/v1.0.2/test-release-pipeline_1.0.2_windows_amd64.zip",
+            "bin": [
+                "test-cli.exe"
+            ],
+            "hash": "989330fceb8be3c6bd31fba466c15de44f484d5523531555a85119379b49f4a2"
+        },
+        "arm64": {
+            "url": "https://github.com/martwebber/test-release-pipeline/releases/download/v1.0.2/test-release-pipeline_1.0.2_windows_arm64.zip",
+            "bin": [
+                "test-cli.exe"
+            ],
+            "hash": "c3b3fe487bbfa2f62b0820ae95173d5b9b0192706830cef0db370998a5a68757"
+        }
+    },
+    "homepage": "https://github.com/martwebber/test-release-pipeline",
+    "description": "A minimal CLI for testing release pipelines"
+}
