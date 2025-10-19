@@ -1,0 +1,22 @@
+{
+    "version": "1.0.22",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/martwebber/mpesa-cli/releases/download/v1.0.22/mpesa-cli_Windows_i386.zip",
+            "bin": [
+                "mpesa-cli.exe"
+            ],
+            "hash": "a203cd55f3c3426a2e754db4558871e9ae91ee9e2719fe3d87748f2287fc1844"
+        },
+        "64bit": {
+            "url": "https://github.com/martwebber/mpesa-cli/releases/download/v1.0.22/mpesa-cli_Windows_x86_64.zip",
+            "bin": [
+                "mpesa-cli.exe"
+            ],
+            "hash": "7f06c7b00d520de26ce1b2f39bd30ea3a838b0ca89ee6a53dabe8c55281617aa"
+        }
+    },
+    "homepage": "https://github.com/martwebber/mpesa-cli",
+    "license": "MIT",
+    "description": "A command-line interface for M-Pesa API operations"
+}
