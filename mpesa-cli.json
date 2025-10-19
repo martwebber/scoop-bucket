@@ -1,19 +1,19 @@
 {
-    "version": "1.0.23",
+    "version": "1.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/martwebber/mpesa-cli/releases/download/v1.0.23/mpesa-cli_Windows_i386.zip",
+            "url": "https://github.com/martwebber/mpesa-cli/releases/download/v1.1.0/mpesa-cli_Windows_i386.zip",
             "bin": [
                 "mpesa-cli.exe"
             ],
-            "hash": "87f40305c66c7a13df1faf29ae9d169aa53e535a278eb01b4bc11d45d9126855"
+            "hash": "aacb308ad7f0c83619190b12b79cd0eadbc96c61a1b1f666a22447110e19fad0"
         },
         "64bit": {
-            "url": "https://github.com/martwebber/mpesa-cli/releases/download/v1.0.23/mpesa-cli_Windows_x86_64.zip",
+            "url": "https://github.com/martwebber/mpesa-cli/releases/download/v1.1.0/mpesa-cli_Windows_x86_64.zip",
             "bin": [
                 "mpesa-cli.exe"
             ],
-            "hash": "2fb980a076d8a3ec43b62ccb80645c2318482379c56f7504c981da4521d10ff7"
+            "hash": "b57ab7e9dc6ec3d90d606944fbc419e4e795415050f82e66a14f3a69842787ea"
         }
     },
     "homepage": "https://github.com/martwebber/mpesa-cli",
